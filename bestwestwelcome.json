@@ -1,0 +1,48 @@
+{
+  "WBUI2": {
+    "settings": {
+      "openbutton": 0,
+      "hideicon": false,
+      "hideiconafter": 60,
+      "iconurl": "https://i.imgur.com/WbkO0Uh.png",
+      "disableicontext": false,
+      "iconposition": 0,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 12
+    },
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "Welcome",
+        "imageurl": "https://i.imgur.com/y0YGp4q.png",
+        "content": [
+          {
+            "title": "Welcome!",
+            "text": "Welcome back, survivors. The purge is complete. The servers are clean. The corruption is gone. You’ve returned to a world reforged—where every mod is battle-tested, every system hardened, and every faction ready to rise again. The Couped Files are no more. The Corrupted Archive has been vanquished. And thanks to Obligod, our Architect of resilience, the code holds strong. This is your second dawn. Claim your giveaway. Rejoin your allies. Rebuild your legacy. BestWCoast lives. And the new era begins now."
+          }
+        ]
+      },
+      {
+        "layout": 2,
+        "buttontext": "Settings",
+        "imageurl": "https://i.imgur.com/y0YGp4q.png",
+        "content": [
+          
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://discord.com/invite/gamerschillzone"
+      },
+      {
+        "text": "Website",
+        "url": "https://www.oblistudios.com/"
+      }
+    ],
+    "version": 2
+  }
+}
