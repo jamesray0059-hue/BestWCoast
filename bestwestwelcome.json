@@ -1,12 +1,12 @@
 {
   "WBUI2": {
     "settings": {
-      "openbutton": 0,
+      "openbutton": 1,
       "hideicon": false,
-      "hideiconafter": 60,
+      "hideiconafter": 0,
       "iconurl": "https://github.com/jamesray0059-hue/BestWCoast/blob/main/bwc_logo_2.png",
       "disableicontext": false,
-      "iconposition": 0,
+      "iconposition": 3,
       "icontextcolor": 0,
       "openonstart": true,
       "openonstartonlynewplayers": true,
