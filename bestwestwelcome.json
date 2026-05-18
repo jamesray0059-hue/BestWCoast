@@ -4,7 +4,7 @@
       "openbutton": 1,
       "hideicon": false,
       "hideiconafter": 0,
-      "iconurl": "https://github.com/Oblistudios/BestWCoast/blob/main/logo.png",
+      "iconurl": "https://github.com/Oblistudios/BestWCoast/blob/381621ebb635caeaecc970a5135a516d8e57a485/logo.png",
       "disableicontext": false,
       "iconposition": 3,
       "icontextcolor": 0,
@@ -22,14 +22,6 @@
             "title": "Welcome!",
             "text": "Welcome To BestWCoast, Have a Great Time!"
           }
-        ]
-      },
-      {
-        "layout": 2,
-        "buttontext": "Settings",
-        "imageurl": "",
-        "content": [
-          
         ]
       }
     ],
