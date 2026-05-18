@@ -4,7 +4,7 @@
       "openbutton": 1,
       "hideicon": false,
       "hideiconafter": 0,
-      "iconurl": "https://github.com/jOblistudios/BestWCoast/blob/main/logo.png",
+      "iconurl": "https://github.com/Oblistudios/BestWCoast/blob/main/logo.png",
       "disableicontext": false,
       "iconposition": 3,
       "icontextcolor": 0,
@@ -40,7 +40,7 @@
       },
       {
         "text": "Website",
-        "url": "https://www.oblistudios.com/"
+        "url": "https://www.bestwcoast.com/"
       }
     ],
     "version": 2
